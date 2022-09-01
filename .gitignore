@@ -1,0 +1,5 @@
+# Ignore these directories and files
+obj/
+bin/
+appsettings.json
+*.db

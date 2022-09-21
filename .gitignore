@@ -3,4 +3,5 @@ obj/
 bin/
 appsettings.json
 *.db
-/API/skinet.db-shm
+*.db-shm
+*.db-wal
